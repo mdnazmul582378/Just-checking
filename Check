@@ -1,3 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="•●★--- Welcome ----★●•" tvg-logo="" group-title="GOLF",•●★--- Welcome ----★●•
+http://xtv.ooo:8080/6089/6089/244975
+#EXTINF:-1 tvg-id="" tvg-name="|UK| SKY SPORTS GOLF FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/Sky_Sports_golf.png" group-title="GOLF",|UK| SKY SPORTS GOLF FHD
+http://xtv.ooo:8080/6089/6089/244976
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Golf HD" tvg-logo="http://109.238.11.8:25461/logo/tv/gg/golf_channel_us.png" group-title="GOLF",US: NBC Golf HD
+http://xtv.ooo:8080/6089/6089/244977
+#EXTINF:-1 tvg-id="" tvg-name="US: GOLF CHANNEL" tvg-logo="https://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-200px.png" group-title="GOLF",US: GOLF CHANNEL
+http://xtv.ooo:8080/6089/6089/244978
+
+
+
 #EXTINF:-1,ETV Telugu
 #CATEGORY:regional
 #LOGO:logo.link
